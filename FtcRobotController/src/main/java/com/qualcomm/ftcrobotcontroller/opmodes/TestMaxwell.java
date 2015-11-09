@@ -1,11 +1,9 @@
 package com.qualcomm.ftcrobotcontroller.opmodes;
 
-<<<<<<< HEAD
 /**
  * Created by FentonVideo on 11/9/2015.
  */
-public class TestMaxwell {
-=======
+
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 //import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.hardware.DcMotor;
@@ -76,7 +74,5 @@ public class TestMaxwell extends LinearOpMode {
         leftMotor.setPower(0);
 
     }
-
-
->>>>>>> refs/remotes/MDausch/master
+    
 }
