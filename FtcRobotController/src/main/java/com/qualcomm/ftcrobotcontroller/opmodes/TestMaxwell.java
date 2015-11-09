@@ -74,5 +74,5 @@ public class TestMaxwell extends LinearOpMode {
         leftMotor.setPower(0);
 
     }
-    
+
 }
